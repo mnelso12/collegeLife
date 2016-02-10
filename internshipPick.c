@@ -1,3 +1,5 @@
+// for choosing between top choices for summer internship
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
